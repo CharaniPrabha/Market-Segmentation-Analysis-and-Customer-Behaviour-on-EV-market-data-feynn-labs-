@@ -18,18 +18,18 @@ Cluster Characteristics:
   Cluster 3	35–50	High	Business	High loan-taking tendency	High
 Key Insights:
 ✅ Total Salary and Price:
-    •	Strong correlation between Total Salary and Price indicates that higher-income individuals prefer higher-priced products.
+•	Strong correlation between Total Salary and Price indicates that higher-income individuals prefer higher-priced products.
 ✅ Age and Financial Decisions:
-    •	Younger individuals are more likely to take personal loans and have higher spending flexibility.
-    •	Older individuals tend to focus more on financial stability and conservative spending.
+•	Younger individuals are more likely to take personal loans and have higher spending flexibility.
+•	Older individuals tend to focus more on financial stability and conservative spending.
 ✅ Profession and Spending:
-    •	Business professionals exhibit higher variation in spending and investment patterns.
-    •	Salaried individuals have more stable spending habits.
+•	Business professionals exhibit higher variation in spending and investment patterns.
+•	Salaried individuals have more stable spending habits.
 ✅ Marital Status:
-    •	Married individuals with dependents tend to spend more on long-term assets and investments.
-    •	Single individuals exhibit higher discretionary spending patterns.
+•	Married individuals with dependents tend to spend more on long-term assets and investments.
+•	Single individuals exhibit higher discretionary spending patterns.
 ✅ Loan Behaviour:
-    •	Higher loan-taking tendency among middle-income groups indicates financial dependency on loans for high-ticket purchases.
+•	Higher loan-taking tendency among middle-income groups indicates financial dependency on loans for high-ticket purchases.
 
 3. Suggested Improvements
  Additional Data Points to Collect:
@@ -75,6 +75,14 @@ Count Plot:
  
 ![image](https://github.com/user-attachments/assets/99a940a5-2d6a-4b7f-8598-c82b0fff4817)
 
- 
+Market segmentation using PCA and K means
+![image](https://github.com/user-attachments/assets/578a896d-e507-4e3c-a282-20cdd687540a)
+
+ PCA bi plot with clusters and loadings
+ ![image](https://github.com/user-attachments/assets/fc3e41fb-d695-419e-aa2a-07bb1b9f78e6)
+
+Cluster size distribution
+![image](https://github.com/user-attachments/assets/30d43fc2-e804-4e5a-ad2c-65111bed7260)
+
 
 
